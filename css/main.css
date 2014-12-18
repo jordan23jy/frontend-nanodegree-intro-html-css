@@ -1,0 +1,36 @@
+body {
+	font-family: "Helvetica", "Sans-serif", "Times";
+	line-height: 180%;
+	color: #777;
+	letter-spacing: 1px;
+	font-size: 16px;
+	margin: 22px 0;
+}
+
+h2 {
+	color: #F07C17;
+	font-weight: 500;
+}
+
+.main-features {
+	margin-top: 35px;
+	border: 1px solid #CCC;
+	padding: 30px;
+}
+
+.main-features h2 {
+	margin: 0 0 27px 0;
+}
+
+.title h1 {
+	color: #666;
+	font-size: 47px;
+}
+
+.left-column img {
+	margin: 20px 0;
+}
+
+.right-column h2 {
+	margin-bottom: 23px;
+}
