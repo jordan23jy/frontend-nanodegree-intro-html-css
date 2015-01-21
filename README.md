@@ -1,0 +1,1 @@
+Project task was to replicate a provided pdf mockup of a single webpage
