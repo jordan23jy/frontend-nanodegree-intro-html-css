@@ -1,1 +1,1 @@
-First project on Udacity that was submitted for Front-End Web Development Nano Degree
+Project task was to replicate a provided pdf mockup of a single webpage
